@@ -1,0 +1,31 @@
+﻿  Gear2D.cpp
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(136): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(146): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(206): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(230): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(231): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(238): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(348): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(350): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(352): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\phil\desktop\hw7\hw7\gear2d.cpp(354): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+  HW7.vcxproj -> C:\Users\Phil\Desktop\HW7\Debug\HW7.exe
