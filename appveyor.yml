@@ -1,11 +1,11 @@
 version: 1.0.{build}
 image: Visual Studio 2017
 configuration:
-- Debug
+- Debug|Win32
 before_build:
   - ps: $Env:PLATFORM_TOOLSET="v141"
 after_build:
-  - 7z a HW7.zip %APPVEYOR_BUILD_FOLDER%\HW7\bin\Debug\*.*
+  - 7z a HW7.zip %APPVEYOR_BUILD_FOLDER%\HW7\Win32\Debug\*.*
 
 artifacts:  # Archive the generated packages in the ci.appveyor.com build report.  - path: bin\Debug\*
   - path: HW7.zip
